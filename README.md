@@ -24,7 +24,7 @@ One day workshop on "LaTeX" in GEC Chamarajanagar on 25.11.2022 at 02:00 pm
   - Inclusion of artwork, and process or spot colour.
   - Using PostScript or Metafont fonts.
 
-### Example
+#### Example
   
 ```bash
 Cartesian closed categories and the price of eggs
@@ -49,12 +49,15 @@ Hello world!
 
 LaTeX online table generator: [Click here](https://www.tablesgenerator.com/)
 
-### Example:
+#### Example:
 
 Long Table: [Click here]()
 
-
 ## Figures in LaTeX
+
+#### Example:
+
+## References in LaTeX
 
 ## Equations in LaTeX
 - LaTex supports wide veriety of eqations. 
