@@ -51,7 +51,9 @@ LaTeX online table generator: [Click here](https://www.tablesgenerator.com/)
 
 #### Example:
 
-Long Table: [Click here]()
+> Simple table: [Click here]()
+> Long table: [Click here]()
+> Landscape table: [Click here]()
 
 ## Figures in LaTeX
 
@@ -63,6 +65,7 @@ LaTeX format of the references: [Click here](https://scholar.google.com/)
 
 #### Example:
 > IEEE format of the refernces: [Click here]()
+
 > Author name format of the references: [Click here]()
 
 ## Equations in LaTeX
