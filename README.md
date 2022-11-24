@@ -47,6 +47,8 @@ Hello world!
 ```
 ## Table in LaTeX
 
+LaTeX online table generator: [Click here](https://www.tablesgenerator.com/)
+
 ## Figures in LaTeX
 
 ## Equations in LaTeX
