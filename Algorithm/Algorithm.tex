@@ -1,0 +1,71 @@
+\documentclass{article}
+\usepackage[noend]{algpseudocode}
+\usepackage{algorithm}
+\usepackage{graphicx}
+\graphicspath{images/}
+
+% \usepackage{blindtext}
+
+% \usepackage{subfiles} % Best loaded last in the preamble
+
+\begin{document}
+
+\section{Different types of algorithm styles}
+
+
+
+\begin{algorithm}
+\caption{Put your caption here}
+\begin{algorithmic}[1]
+
+\Procedure{Name}{$a,b$}       
+    \State System Initialization
+    \State Read the value 
+    \If{$condition = True$}
+        \State Do this
+        \If{$Condition \geq 1$}
+        \State Do that
+        \ElsIf{$Condition \neq 5$}          \Comment{Place the comment here}
+        \State Do another
+        \State Do that as well
+        \Else
+        \State Do otherwise
+        \EndIf
+    \EndIf
+
+    \While{$something \not= 0$}  \Comment{put some comments here}
+        \State $var1 \leftarrow var2$  \Comment{another comment}
+        \State $var3 \leftarrow var4$
+    \EndWhile  \label{test}
+\EndProcedure
+\end{algorithmic}
+\end{algorithm}
+
+
+\textbf{Example of Factorial of a number}
+
+\begin{algorithm}
+\caption{Find the factorial of a number}
+\begin{algorithmic}[1]
+    \Procedure{Fact}{$n$}
+    \State Start
+    \State Read n
+    \State $Fact \leftarrow 1$
+    \State $i \leftarrow 1$
+     \While{$i \leq n$}
+    \State $Fact = Fact * i $ 
+    \State $i = i+1$
+      \EndWhile
+      \State Display $Fact$
+      \State Stop
+    \EndProcedure
+\end{algorithmic}
+\end{algorithm}
+
+
+
+
+\end{document}
+
+
+

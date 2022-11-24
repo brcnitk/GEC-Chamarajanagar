@@ -1,0 +1,59 @@
+\documentclass[11pt]{article}
+\usepackage[margin=3cm]{geometry}
+% algorithmic environment using algcompatible package
+\usepackage{algcompatible}
+\usepackage{algorithm}
+\begin{document}
+
+
+\section{Examples with the algcompatible/algorithmic and algorithm packages}
+
+Here we demonstrate how algorithms or pseudocode can be typeset using the \verb|algorithmic| environment provided by tye \verb|algorithmic| or \verb|algcompatible| package.
+
+{\itshape You should not load the \verb|algorithm2e|, \verb|algpseudocode| packages if you have already loaded \verb|algorithmic| or \verb|algcompatible|.} 
+
+Note that the command names provided by \verb|algorithmic| are all uppercased, e.g.~\verb|\STATE|, \verb|\WHILE|, \verb|\ENDWHILE|. On the other hand, \verb|algcompatible| will recognise uppercased and title-cased command names, so \verb|\STATE|, \verb|\WHILE|, \verb|\ENDWHILE|, \verb|\State|, \verb|\While|, \verb|\EndWhile| are all recognised. 
+
+Apart from the command names, \verb|algcompatible| and \verb|algorithmic| commands use the same arguments syntax as \verb|algpseudocode|.
+
+\subsection{ Example with  algcompatible package }
+\begin{algorithmic}
+\STATE $i\gets 10$
+% \IF {$i\geq 5$} 
+        \STATE $i\gets i-1$
+\ELSE
+        \IF {$i\leq 3$}
+                \STATE $i\gets i+2$
+        \ENDIF
+\ENDIF 
+\end{algorithmic}
+
+
+\subsection{ Example ML algorithm with  algcompatible package }
+
+
+\begin{algorithm}
+\caption{Pseudocode of New block}
+\begin{algorithmic}[1]
+\STATE $\textbf{Procedure}\,SCR\_Block(input):$
+\STATE $W,\,H,\,C\leftarrow input\_width,\,input\_height,\,input\_channels$
+\STATE $Y = Relu(conv(input))$ \,\,\,\,\#\,$Number of filters = C$
+\STATE $C_{11},C_{12}\leftarrow Splitting\,the\,input\,X \,into\,two\,groups$
+\STATE $C_{21},C_{22}\leftarrow Splitting\,the\,Y\,into\,two\,groups$
+\STATE $X_{Concat}=C_{11}C_{22},\,\,Concatenate\,channelwise$
+\STATE $Y_{Concat}=C_{12}C_{21},\,\,Concatenate\,channelwise$
+\STATE $X_{SC}\,=\,Relu(conv(X_{Concat}))$
+\STATE $Y_{SC}\,=\,Relu(conv(Y_{Concat}))$
+\STATE $X_{int}=\sigma \left [Avg\,Pool_{(W \times H)}(X_{SC})\right ]$\\
+\STATE $Y_{int}=\sigma \left [Avg\,Pool_{(W\times H)}(Y_{SC})\right ]$\\
+\STATE $X_{Out}\,=\,X_{int}\times X_{SC},\,\,\,Y_{Out}\,=\,Y_{int}\times Y_{SC}$
+\STATE $Out\,=\,X_{Out}\,+\,Y_{Out}\,+\,input$
+\STATE \textbf{Return} Out
+\STATE \textbf{End procedure}
+\end{algorithmic}
+\end{algorithm}
+
+
+
+
+\end{document}

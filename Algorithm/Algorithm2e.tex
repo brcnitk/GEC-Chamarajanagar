@@ -1,0 +1,53 @@
+% algorithmic environment using algcompatible package
+\documentclass[11pt]{article}
+\usepackage[margin=3cm]{geometry}
+\usepackage{algorithm2e}
+
+\begin{document}
+
+\section{Examples with the algorithm2e package}
+
+The algorithm2e package has quite different syntax structure from the algpseudocode, algcompatible and algorithmic packages, so you will need to be careful about which package you want to use, or which package your template has loaded. 
+\textbf{Example algorithm with  to end the statements}
+
+\begin{algorithm}
+$i\gets 10$\;
+\eIf{$i\geq 5$}
+{
+    $i\gets i-1$\;
+}{
+    \If{$i\leq 3$}
+    {
+        $i\gets i+2$\;
+    }
+}
+\end{algorithm}
+% 
+
+
+Every line in your source code must end with \backslash \semicolon  otherwise your algorithm will continue on the same line of text in the output. Only lines with a macro beginning a block should not end with \;. 
+
+\textbf{Example algorithm with caption and label}
+\begin{algorithm}
+\caption{An algorithm with caption}\label{alg:two}
+\KwData{$n \geq 0$}
+\KwResult{$y = x^n$}
+$y \gets 1$\;
+$X \gets x$\;
+$N \gets n$\;
+\While{$N \neq 0$}{
+  \eIf{$N$ is even}{
+    $X \gets X \times X$\;
+    $N \gets \frac{N}{2}$ \Comment*[r]{This is a comment}
+  }{\If{$N$ is odd}{
+      $y \gets y \times X$\;
+      $N \gets N - 1$\;
+    }
+  }
+}
+\end{algorithm}
+
+
+When using algorithm2e you can use \caption{...}\ref{alg:two} inside this algorithm environment directly, without needing to load any other packages. However, if you want to add comments in your algorithm, you'll have to declare the command name to use first.
+\end{document}
+  
