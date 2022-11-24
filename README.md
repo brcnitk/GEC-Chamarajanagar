@@ -59,7 +59,8 @@ LaTeX online table generator: [Click here](https://www.tablesgenerator.com/)
 
 ## Figures in LaTeX
 
-#### Example:
+#### Example: 
+[Click here](https://www.overleaf.com/read/bhwyrrcnsrhr)
 
 ## References in LaTeX
 
