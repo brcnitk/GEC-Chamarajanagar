@@ -49,6 +49,11 @@ Hello world!
 
 LaTeX online table generator: [Click here](https://www.tablesgenerator.com/)
 
+### Example:
+
+Long Table: [Click here]()
+
+
 ## Figures in LaTeX
 
 ## Equations in LaTeX
