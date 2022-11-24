@@ -31,6 +31,6 @@ One day workshop on "LaTex" in GEC Chamarajanagar on 25.11.2022 at 02:00 pm
 ## Equations in LaTeX
 
 ## Algorithms in LaTeX
--LaTex supports various algorithm pakages ,which help in creating different style algorithms. 
--The section provides introductions to various packages supported by LaTex and examples.
+ - LaTex supports various algorithm pakages ,which help in creating different style algorithms. 
+ - The section provides introductions to various packages supported by LaTex and examples.
 
