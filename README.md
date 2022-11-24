@@ -59,6 +59,8 @@ Long Table: [Click here]()
 
 ## References in LaTeX
 
+LaTeX format of the references: [Click here](https://scholar.google.com/)
+
 ## Equations in LaTeX
 - LaTex supports wide veriety of eqations. 
 - This section provides LaTeX code for genral mathmatical equations, Electroncs, Mechanical and Civil Engineering Equations.
