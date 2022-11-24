@@ -29,6 +29,8 @@ One day workshop on "LaTex" in GEC Chamarajanagar on 25.11.2022 at 02:00 pm
 ## Figures in LaTeX
 
 ## Equations in LaTeX
+- LaTex wide veriety of eqations. 
+- This section provides LaTeX code for genral mathmatical equations, Electroncs, Mechanical and Civil Engineering Equations.
 
 ## Algorithms in LaTeX
  - LaTex supports various algorithm pakages ,which help in creating different style algorithms. 
