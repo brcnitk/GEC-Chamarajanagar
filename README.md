@@ -52,7 +52,9 @@ LaTeX online table generator: [Click here](https://www.tablesgenerator.com/)
 #### Example:
 
 > Simple table: [Click here]()
+
 > Long table: [Click here]()
+
 > Landscape table: [Click here]()
 
 ## Figures in LaTeX
