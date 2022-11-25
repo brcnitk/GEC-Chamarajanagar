@@ -1,0 +1,44 @@
+\documentclass{article}
+
+% For \begin{longtblr} ... \end{longtblr}
+\usepackage{tabularray}
+\usepackage[table,xcdraw]{xcolor}
+
+% For \begin{sidewaystable} .... \end{sidewaystable}
+\usepackage{rotating}
+
+% For \begin{landscape} ... \end{landscape}
+\usepackage{lscape}
+
+\title{Cartesian closed categories and the price of eggs}
+\author{Jane Doe}
+\date{September 1994}
+\begin{document}
+   \maketitle
+   Hello world!
+   
+% \begin{sidewaystable}
+\begin{landscape}
+\begin{longtblr}[
+    caption = {Existing algorithms issues and their consequences},
+    label = {issues}
+    ]{
+    colspec = {|c|m{1.8in}|m{1.8in}|},
+    rowhead = 1,
+    hlines,
+    % row{even} = {gray9},
+    row{1} = {olive9},
+    }
+    \hline
+    \textbf{Sl. No.} & \centering \textbf{Issues} & \centering \textbf{Consequences} \\ \hline
+    1 & \centering Void node is a part of routing & \centering Higher packet loss \\ \hline
+    2 & \centering Limited number of next hop selection attributes & \centering Inappropriate selection of next hop or cluster\\ \hline
+    3 & \centering Duplicate retransmission & \centering Reduced lifetime of the node and network \\ \hline
+    4 & \centering Not scalable & \centering Limited use in dense network \\ \hline
+    5 & \centering Complex algorithm & \centering Higher communication overhead \\ \hline
+    6 & \centering Overloading of some nodes as a cluster head & \centering Reduced lifetime of the network \\ \hline
+\end{longtblr}
+% \end{sidewaystable}
+\end{landscape}
+
+\end{document}
