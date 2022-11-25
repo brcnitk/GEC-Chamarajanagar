@@ -46,7 +46,7 @@ Hello world!
 
 #### Sample format
 
-> IEEE: [Click here]([https://www.ieee.org/conferences/publishing/templates.html](https://template-selector.ieee.org/secure/templateSelector/publicationType))
+> IEEE: [Click here]([https://www.ieee.org/conferences/publishing/templates.html](https://template-selector.ieee.org/secure/templateSelector/publicationType)
 
 > Elsevier: [Click here](https://www.elsevier.com/authors/policies-and-guidelines/latex-instructions)
 
@@ -64,18 +64,20 @@ LaTeX online table generator: [Click here](https://www.tablesgenerator.com/)
 
 #### Example:
 
-> Simple table: [Click here]()
+> Simple table: [Click here](https://github.com/brcnitk/GEC-Chamarajanagar/blob/main/Table/simple_table.tex)
 
-> Long table: [Click here]()
+> Long table: [Click here](https://github.com/brcnitk/GEC-Chamarajanagar/blob/main/Table/longtblr.tex)
 
-> Landscape table: [Click here]()
+> Landscape table: [Click here](https://github.com/brcnitk/GEC-Chamarajanagar/blob/main/Table/lanscape.tex)
 
 ## Figures in LaTeX
 
 Online tool (Draw.io): [Click here](www.draw.io)
 
 #### Example: 
-[Click here](https://www.overleaf.com/read/bhwyrrcnsrhr)
+> [Click here](https://www.overleaf.com/read/bhwyrrcnsrhr)
+
+> Sample: [Click here](https://github.com/brcnitk/GEC-Chamarajanagar/blob/main/Figure/figure.tex)
 
 ## References in LaTeX
 
