@@ -94,5 +94,5 @@ LaTeX format of the references: [Click here](https://scholar.google.com/)
 
 ## Algorithms in LaTeX
  - LaTex supports various algorithm pakages ,which help in creating different style algorithms. 
- - The section provides introductions to various packages supported by LaTex and examples [Click here]
+ - The section provides introductions to various packages supported by LaTex and examples [Click here](https://github.com/brcnitk/GEC-Chamarajanagar/tree/main/Algorithm)
 
