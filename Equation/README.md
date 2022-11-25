@@ -1,3 +1,4 @@
-## Equations 
+# Equations 
 
-# LaTex code for equations
+## LaTex code and their meaning
+-\quad = space equale to current font size
