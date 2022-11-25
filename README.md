@@ -59,6 +59,8 @@ LaTeX online table generator: [Click here](https://www.tablesgenerator.com/)
 
 ## Figures in LaTeX
 
+Online tool (Draw.io): [Click here](www.draw.io)
+
 #### Example: 
 [Click here](https://www.overleaf.com/read/bhwyrrcnsrhr)
 
