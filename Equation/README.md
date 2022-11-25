@@ -45,7 +45,8 @@
 - ![image](https://user-images.githubusercontent.com/95879150/203915299-1a749def-f7a7-4a8f-8c87-3590308898cb.png)
 
 - \uproot   - moves n up – or down with a negative argument.
-- 
+- \angle    - to represent angel symbols.
+- \sigma    - bigsigma notation.
 
 
 
