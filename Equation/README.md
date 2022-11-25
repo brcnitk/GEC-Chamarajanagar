@@ -19,7 +19,7 @@
 
 #Examples
 
-- f(x) &= x^2\! +3x\! +2                    ------![image](https://user-images.githubusercontent.com/95879150/203902867-caf68c13-20a8-43fd-942d-c9c7b22739be.png)
+- f(x) &= x^2\! +3x\! +2                    ------
 
 - f(x) &= x^2+3x+2                          ------
 
@@ -34,6 +34,9 @@
 - f(x) &= x^2\quad +3x\quad +2               ------
 
 - f(x) &= x^2\qquad +3x\qquad +2             ------
+
+![image](https://user-images.githubusercontent.com/95879150/203902867-caf68c13-20a8-43fd-942d-c9c7b22739be.png)
+
 
 
 
