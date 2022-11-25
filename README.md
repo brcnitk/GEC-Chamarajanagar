@@ -50,6 +50,10 @@ Hello world!
 
 > IEEE: [Click here]([https://www.ieee.org/conferences/publishing/templates.html](https://template-selector.ieee.org/secure/templateSelector/publicationType))
 
+> Elsevier: [Click here](https://www.elsevier.com/authors/policies-and-guidelines/latex-instructions)
+
+> MDPI: [Click here](https://www.mdpi.com/authors/latex)
+
 ## Table in LaTeX
 
 LaTeX online table generator: [Click here](https://www.tablesgenerator.com/)
