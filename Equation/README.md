@@ -36,7 +36,16 @@
 
 - f(x) &= x^2\quad +3x\quad +2             
 
-- f(x) &= x^2\qquad +3x\qquad +2             ------
+- f(x) &= x^2\qquad +3x\qquad +2             
+
+# LaTex code and meaning
+- \mathrm   - Used to turn on roman typestyle for uppercase and lowercase letters.
+- \sqrt     - LaTeX command for square root. 
+- \leftroot - moves n to the left – or to the right with a negative argument.
+- ![image](https://user-images.githubusercontent.com/95879150/203915299-1a749def-f7a7-4a8f-8c87-3590308898cb.png)
+
+- \uproot   - moves n up – or down with a negative argument.
+- 
 
 
 
