@@ -45,7 +45,7 @@ Hello world!
 
 #### Sample format
 
-> IEEE: [Click here]([https://www.ieee.org/conferences/publishing/templates.html](https://template-selector.ieee.org/secure/templateSelector/publicationType)
+> IEEE: [Click here](https://www.ieee.org/conferences/publishing/templates.html](https://template-selector.ieee.org/secure/templateSelector/publicationType)
 
 > Elsevier: [Click here](https://www.elsevier.com/authors/policies-and-guidelines/latex-instructions)
 
