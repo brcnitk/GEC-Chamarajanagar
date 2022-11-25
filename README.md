@@ -57,6 +57,8 @@ Hello world!
 
 > Springer: [Click here](https://www.springernature.com/gp/authors/campaigns/latex-author-support)
 
+> IISc, Bangalore: [Click here](https://etd.iisc.ac.in/static/etd/instructions/index.htm)
+
 ## Table in LaTeX
 
 LaTeX online table generator: [Click here](https://www.tablesgenerator.com/)
