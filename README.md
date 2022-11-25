@@ -45,6 +45,11 @@ Hello world!
    Hello world!
 \end{document}
 ```
+
+#### Sample format
+
+> IEEE: [Click here]([https://www.ieee.org/conferences/publishing/templates.html](https://template-selector.ieee.org/secure/templateSelector/publicationType))
+
 ## Table in LaTeX
 
 LaTeX online table generator: [Click here](https://www.tablesgenerator.com/)
