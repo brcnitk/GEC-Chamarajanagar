@@ -49,6 +49,7 @@
 - \uproot   - moves n up – or down with a negative argument.
 - \angle    - to represent angel symbols.
 - \sigma    - bigsigma notation.
+- \cdots    - command produces a horizontal ellipsis where the dots are raised to the center of the line.
 
 > More symbols[Click here](https://github.com/brcnitk/GEC-Chamarajanagar/blob/main/Equation/symbols_in_equation.pdf)
 
