@@ -30,7 +30,6 @@ Jane Doe
 September 1994
 
 Hello world!
-
 ```
 
 ```
@@ -84,9 +83,9 @@ Online tool (Draw.io): [Click here](www.draw.io)
 LaTeX format of the references: [Click here](https://scholar.google.com/)
 
 #### Example:
-> IEEE format of the refernces: [Click here]()
+> IEEE format of the refernces: [Click here](https://github.com/brcnitk/GEC-Chamarajanagar/blob/main/References/reference.tex)
 
-> Author name format of the references: [Click here]()
+> Author name format of the references: [Click here](https://github.com/brcnitk/GEC-Chamarajanagar/blob/main/References/reference.tex)
 
 ## Equations in LaTeX
 - LaTex supports wide veriety of eqations. 
