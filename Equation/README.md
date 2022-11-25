@@ -50,6 +50,8 @@
 - \angle    - to represent angel symbols.
 - \sigma    - bigsigma notation.
 
+> More symbols[Click here]https://github.com/brcnitk/GEC-Chamarajanagar/blob/main/Equation/symbols_in_equation.pdf
+
 
 
 
