@@ -16,3 +16,16 @@
 - \ (space after backslash!)	equivalent of space in normal text
 
 - \qquad	twice of \quad (= 36 mu)
+
+#Examples
+\begin{align*}
+f(x) &= x^2\! +3x\! +2 \\
+f(x) &= x^2+3x+2 \\
+f(x) &= x^2\, +3x\, +2 \\
+f(x) &= x^2\: +3x\: +2 \\
+f(x) &= x^2\; +3x\; +2 \\
+f(x) &= x^2\ +3x\ +2 \\
+f(x) &= x^2\quad +3x\quad +2 \\
+f(x) &= x^2\qquad +3x\qquad +2
+\end{align*}
+\end{document}
