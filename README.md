@@ -90,8 +90,9 @@ LaTeX format of the references: [Click here](https://scholar.google.com/)
 ## Equations in LaTeX
 - LaTex supports wide veriety of eqations. 
 - This section provides LaTeX code for genral mathmatical equations, Electroncs, Mechanical and Civil Engineering Equations.
+>Equations LaTex references: [Click here]
 
 ## Algorithms in LaTeX
  - LaTex supports various algorithm pakages ,which help in creating different style algorithms. 
- - The section provides introductions to various packages supported by LaTex and examples.
+ - The section provides introductions to various packages supported by LaTex and examples [Click here]
 
