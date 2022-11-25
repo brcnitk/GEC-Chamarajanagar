@@ -54,6 +54,10 @@ Hello world!
 
 > MDPI: [Click here](https://www.mdpi.com/authors/latex)
 
+> IOPScience: [Click here](https://publishingsupport.iopscience.iop.org/questions/article-format/)
+
+> Springer: [Click here](https://www.springernature.com/gp/authors/campaigns/latex-author-support)
+
 ## Table in LaTeX
 
 LaTeX online table generator: [Click here](https://www.tablesgenerator.com/)
