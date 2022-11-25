@@ -21,7 +21,6 @@ One day workshop on "LaTeX" in GEC Chamarajanagar on 25.11.2022 at 02:00 pm
   - Automatic generation of bibliographies and indexes.
   - Multi-lingual typesetting.
   - Inclusion of artwork, and process or spot colour.
-  - Using PostScript or Metafont fonts.
 
 #### Example
   
